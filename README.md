@@ -102,22 +102,6 @@ Confusion matrices were plotted to analyze:
 - False Positives
 - False Negatives
 - True Negatives
+  
 
-This helps understand **class-wise prediction performance**.
 
----
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/chatgpt-sentiment-analysis.git
-cd chatgpt-sentiment-analysis
-2️⃣ Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3️⃣ Run the Notebook
-bash
-Copy code
-jupyter notebook
